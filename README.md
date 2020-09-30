@@ -1,5 +1,5 @@
 # goCart
-A simple E-commerce Website using HTML, CSS, BOOTSTRAP and SQL
+An E-commerce Website using HTML, CSS, BOOTSTRAP and
 Php is used in the backend and database used is sql.
 It is an e-commerce website for mobiles.
 
